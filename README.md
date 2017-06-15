@@ -1,4 +1,4 @@
-For windows users:
+For Windows users:
 
 Delete line 7 and add this lines:
 
