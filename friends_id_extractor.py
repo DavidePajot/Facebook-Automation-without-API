@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 email = ('myemail@gmail.com')
 password = ('mypassword123')
 page = 0
-friends_id = open("C:\\Users\\Davide Pajot\\Desktop\\friends.txt","a")
+friends_id = open("/home/[YOUR_USER_NAME]/Desktop/friends.txt","a")
 driver = webdriver.PhantomJS()
 driver.set_page_load_timeout(30)
 driver.get("https://mbasic.facebook.com")
